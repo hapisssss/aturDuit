@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682995007149",
+    "project_id": "motreck-5f313",
+    "storage_bucket": "motreck-5f313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682995007149:android:3d860177fdbd7f5eea5024",
+        "android_client_info": {
+          "package_name": "com.example.aturduit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8qdT01WUtJX3EMcEEYS_E6Jc_WLO1y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

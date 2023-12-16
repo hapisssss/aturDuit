@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "466595842511",
+    "firebase_url": "https://aturduit-f3099-default-rtdb.firebaseio.com",
+    "project_id": "aturduit-f3099",
+    "storage_bucket": "aturduit-f3099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466595842511:android:3c99d180f0f68a2778eaba",
+        "android_client_info": {
+          "package_name": "com.example.aturduit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOIdo_FFNmty8aMli4X94RafA8lJ1tlYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
